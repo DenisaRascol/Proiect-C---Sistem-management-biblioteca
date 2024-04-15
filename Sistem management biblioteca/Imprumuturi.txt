@@ -1,0 +1,7 @@
+Rascol Denisa,Morometii,Marin Preda,5
+Rascol Denisa,Ion,Liviu Rebreanu,6
+Popescu Ion,Ion,Liviu Rebreanu,1
+Rascol Denisa,Matilda,Roald Dahl,1
+Rascol Denisa,Amintiri din copilarie,Ion Creanga,5
+Marinescu Maria,Pisici,Pisici,1
+Marinescu Maria,Morometii,Marin Preda,10

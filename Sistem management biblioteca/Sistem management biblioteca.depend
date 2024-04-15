@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1713143053 source:c:\users\denisa\desktop\codeblocks\sistem management biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fileIO.h"
+
+1713131131 c:\users\denisa\desktop\codeblocks\sistem management biblioteca\fileio.h
+	<stdio.h>
+	<string.h>
+
+1713140576 source:c:\users\denisa\desktop\codeblocks\sistem management biblioteca\fileio.c
+	"fileIO.h"
+
+1713108556 source:c:\users\denisa\desktop\codeblocks\sistem management biblioteca\antet.c
+
+1713143052 source:c:\users\denisa\desktop\codeblocks\sistem management biblioteca\meniu.c
+
+1713142852 source:c:\users\denisa\desktop\codeblocks\sistem management biblioteca\imprumutcarti.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713169947 source:c:\users\denisa\desktop\codeblocks\sistem management biblioteca\restituiredonarecarti.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713128283 source:c:\users\denisa\desktop\codeblocks\sistem management biblioteca\vizualizarecarti.c
+
+1713017026 source:c:\users\denisa\desktop\codeblocks\sistem management biblioteca\cautarecarti.c
+	<stdio.h>
+	<string.h>
+
+1713017063 source:c:\users\denisa\desktop\codeblocks\sistem management biblioteca\logare.c
+	<stdio.h>
+	<string.h>
+
